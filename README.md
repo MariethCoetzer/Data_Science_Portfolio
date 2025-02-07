@@ -3,10 +3,10 @@
 
 An overview of various Data-Science related projects for my classes at UCLA or for my own enjoyment.
 
-### [[01] [Waiting] ():
+### [[01] Waiting] ():
 > Pending instructor approval
 
-### [[02] Comparing Sentiment Analysis Across Wikipedia Pages](https://github.com/MariethCoetzer/Data_Science_Portfolio/tree/main/%5B01%5D%20Analyzing%20California%20Commuter%20Networks%20During%20COVID-19):
+### [[02] Comparing Sentiment Analysis Across Wikipedia Pages](https://github.com/MariethCoetzer/Data_Science_Portfolio_Oxford/tree/main/%5B02%5D%20Comparing%20Sentiment%20Analysis%20Across%20Wikipedia%20Pages):
 > Comparing sentiment analysis using Natural Language Toolkit across four Wikipedia pages. This work was carried out for Fundamentals of Social Data Science during Michaelmas Term 2024 in Oxford. 
 
 ### [[03] Predicting Social Support using Machine Learning Techniques (Python)](https://github.com/MariethCoetzer/Data_Science_Portfolio/tree/main/%5B02%5D%20Predicting%20Social%20Support%20using%20Machine%20Learning%20Techniques):
