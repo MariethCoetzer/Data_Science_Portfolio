@@ -1,8 +1,6 @@
 # Data_Science_Portfolio_Oxford
 
 
-# Data_Science_Portfolio
-
 An overview of various Data-Science related projects for my classes at UCLA or for my own enjoyment.
 
 ### [[01] Analyzing California Commuter Networks During COVID-19 (Python)](https://github.com/MariethCoetzer/Data_Science_Portfolio/tree/main/%5B01%5D%20Analyzing%20California%20Commuter%20Networks%20During%20COVID-19):
