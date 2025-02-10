@@ -15,8 +15,8 @@ An overview of various Data-Science related projects for my classes at UCLA or f
 <img src="https://github.com/MariethCoetzer/Data_Science_Portfolio_Oxford/blob/main/%5B02%5D%20Comparing%20Sentiment%20Analysis%20Across%20Wikipedia%20Pages/SentimentComparison.PNG" alt="Sentiment Comparison" width="800"/>
 
 
-### [Predicting Grit in Adolescents using Machine Learning](https://github.com/MariethCoetzer/Data_Science_Portfolio_Oxford/tree/main/%5B03%5D%20Predicting%20Grit%20in%20Adolescents%20using%20Machine%20Learning):
-> Leveraging 10,000 childhood features to predict adolescent grit including data cleaning, hyperparameter tuning, and interpreting model results using partial dependence plots and Shapley values.  This work was carried out for Applied Machine Learning during Hilary Term 2024 in Oxford.
+### [[03] Predicting Grit in Adolescents using Machine Learning](https://github.com/MariethCoetzer/Data_Science_Portfolio_Oxford/tree/main/%5B03%5D%20Predicting%20Grit%20in%20Adolescents%20using%20Machine%20Learning):
+> Leveraging 10,000 childhood features to predict adolescent grit including data cleaning, hyperparameter tuning, and interpreting model results using partial dependence plots and Shapley values. The data comes from [the Future of Families and Child Wellbeing Study](https://ffcws.princeton.edu/about). This work was carried out for Applied Machine Learning during Hilary Term 2024 in Oxford.
 
 <img src="https://github.com/MariethCoetzer/Data_Science_Portfolio_Oxford/blob/main/%5B03%5D%20Predicting%20Grit%20in%20Adolescents%20using%20Machine%20Learning/Hyperparameter%20Tuning.PNG" alt="Hyperparameter Tuning" width="800"/>
 
