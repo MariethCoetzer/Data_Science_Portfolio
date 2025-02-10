@@ -6,7 +6,7 @@ An overview of various Data-Science related projects for my classes at UCLA or f
 ### [[01] Identifying Complementary Skills using Network Analysis](https://github.com/MariethCoetzer/Data_Science_Portfolio_Oxford/tree/main/%5B01%5D%20Finding%20Matching%20Skills%20using%20Network%20Analysis):
 > Using network analysis to identify complementary skills on an online labour platform. The data and part of the analysis comes from [What is the price of a skill](https://www.sciencedirect.com/science/article/pii/S0048733323001828?via%3Dihub) by Fabian Stephany and Ole Teutloff. This work was carried out for Social Network Analysis during Hilary Term 2024 in Oxford.
 
-![Image](https://raw.githubusercontent.com/MariethCoetzer/Data_Science_Portfolio_Oxford/refs/heads/main/%5B01%5D%20Finding%20Matching%20Skills%20using%20Network%20Analysis/SankeyDiagram.png?token=GHSAT0AAAAAAC6SVUDJTQ4BAFKY43DOVW3OZ5KHRYQ)
+<img src="https://raw.githubusercontent.com/MariethCoetzer/Data_Science_Portfolio_Oxford/refs/heads/main/%5B01%5D%20Finding%20Matching%20Skills%20using%20Network%20Analysis/SankeyDiagram.png?token=GHSAT0AAAAAAC6SVUDJTQ4BAFKY43DOVW3OZ5KHRYQ" alt="Sankey Diagram" width="800"/>
 
 
 ### [[02] Comparing Sentiment Analysis Across Wikipedia Pages](https://github.com/MariethCoetzer/Data_Science_Portfolio_Oxford/tree/main/%5B02%5D%20Comparing%20Sentiment%20Analysis%20Across%20Wikipedia%20Pages):
