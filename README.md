@@ -10,10 +10,10 @@ An overview of various Data-Science related projects for my classes at UCLA or f
 
 
 ### [[02] Comparing Sentiment Analysis Across Wikipedia and Reddit Pages](https://github.com/MariethCoetzer/Data_Science_Portfolio_Oxford/tree/main/%5B02%5D%20Comparing%20Sentiment%20Analysis%20Across%20Wikipedia%20Pages):
-> Comparing sentiment analysis using Natural Language Toolkit across four Wikipedia pages and the 2021 Abu Dhabi Grand Prix involving Max Verstappen and Lewis Hamilton on Reddit's formula1. This work was carried out for Fundamentals of Social Data Science during Michaelmas Term 2024 in Oxford.
+> Comparing sentiment analysis using Natural Language Toolkit across four Wikipedia pages and the 2021 Abu Dhabi Grand Prix involving Max Verstappen and Lewis Hamilton on Reddit's formula1. This work was carried out for Fundamentals of Social Data Science during Michaelmas Term 2023 in Oxford.
 
 <img src="https://github.com/MariethCoetzer/Data_Science_Portfolio_Oxford/blob/main/%5B02%5D%20Comparing%20Sentiment%20Analysis%20Across%20Wikipedia%20Pages/SentimentComparison.PNG" alt="Sankey Diagram" width="800"/>
 
 
-### [[03] Network and Sentiment Analysis on Reddit's formula1](https://github.com/MariethCoetzer/Data_Science_Portfolio/tree/main/%5B02%5D%20Predicting%20Social%20Support%20using%20Machine%20Learning%20Techniques):
-
+### [Predicting Grit in Adolescents using Machine Learning](https://github.com/MariethCoetzer/Data_Science_Portfolio/tree/main/%5B02%5D%20Predicting%20Social%20Support%20using%20Machine%20Learning%20Techniques):
+> Leveraging 10,000 childhood features to predict adolescent grit including data cleaning, hyperparameter training, and interpreting model results using partial dependence plots and Shapley values.  This work was carried out for Applied Machine Learning during Hilary Term 2024 in Oxford.
