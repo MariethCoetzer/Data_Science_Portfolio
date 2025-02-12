@@ -1,7 +1,7 @@
 # Data_Science_Portfolio
 
 
-An overview of various Data-Science related projects for my classes at UCLA or for my own enjoyment.
+An overview of various Data-Science related projects for my classes at Oxford.
 
 ### [[01] Identifying Complementary Skills using Network Analysis](https://github.com/MariethCoetzer/Data_Science_Portfolio_Oxford/tree/main/%5B01%5D%20Identifying%20Complementary%20Skills%20using%20Network%20Analysis):
 > Using network analysis to identify complementary skills on an online labour platform. The data and part of the analysis comes from [What is the price of a skill](https://www.sciencedirect.com/science/article/pii/S0048733323001828?via%3Dihub) by Fabian Stephany and Ole Teutloff. This work was carried out for Social Network Analysis during Hilary Term 2024 in Oxford.
