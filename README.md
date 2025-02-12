@@ -1,4 +1,4 @@
-# Data_Science_Portfolio_Oxford
+# Data_Science_Portfolio
 
 
 An overview of various Data-Science related projects for my classes at UCLA or for my own enjoyment.
